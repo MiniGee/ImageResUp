@@ -1,0 +1,1 @@
+Increase resolution of anime style images
