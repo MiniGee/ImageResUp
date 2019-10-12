@@ -4,4 +4,8 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
+__*/
 data_*/
+*.log
+weights/
+output/
